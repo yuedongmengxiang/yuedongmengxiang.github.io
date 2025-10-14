@@ -27,6 +27,7 @@ const projects = [
     { name: "小易局域网扫码助手微信小程序", description: "移动端微信小程序扫码枪助手、盘点助手", remark: "局域网快速扫码、盘点。", images: ['images/gh_0121f90c40b6_258.jpg'], links: [{ text: "分享一款超实用的手机扫码枪小程序", url: "https://mp.weixin.qq.com/s/wdVfCmyux0yzB_PhFtPoyA" }], href: "" },
     { name: "小易扫码枪助手微信小程序", description: "移动端微信小程序扫码枪助手", remark: "便捷扫码工具", images: ['images/gh_ab61ba5034cd_258.jpg'], 
         links: [
+            { text: "源码地址", url: "https://cnb.cool/yuedongmengxiang/e-scan-gun" },
             { text: "用AI写代码，挑战“一人公司”（一）", url: "https://mp.weixin.qq.com/s/SWaZWnOpmxzRSZkw8GVAOA" },
             { text: "用AI写代码，挑战“一人公司”（二）", url: "https://mp.weixin.qq.com/s/cHU3tAW3zb0Mbekn3dowPg" },
             { text: "用AI写的扫码枪助手微信小程序发布啦！", url: "https://mp.weixin.qq.com/s/GXL2EXk8VYFkPYb4_jQ7pA" },
