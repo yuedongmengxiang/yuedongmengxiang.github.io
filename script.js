@@ -16,6 +16,7 @@ const projects = [
             { text: "H5扫码枪V1.3.1发布！！！电脑端兼容32位操作系统+小程序端支持连续扫码", url: "https://mp.weixin.qq.com/s/lZ2OyR0wUfJkh2hHpW6P3g" },
             { text: "H5扫码枪V1.3.2发布！！！解锁发票核对技能", url: "https://mp.weixin.qq.com/s/kk2pl-laHrpWvPxhVS3y4A" },
             { text: "H5扫码枪V1.3.2使用说明", url: "https://mp.weixin.qq.com/s/AE7yfgDdb0nuqTUqMS8Xnw" },
+            { text: "H5扫码枪V1.3.3发布！！！已上架到华军软件园", url: "https://www.onlinedown.net/soft/20269157.htm" },
         ], 
         href: "" },
     { name: "H5扫码枪手机端", description: "移动端手机浏览器H5扫码枪应用", remark: "借助手机的摄像头设备，用手机浏览器访问H5网页，该网页调用手机摄像头进行扫码识读。", images: [], 
@@ -41,14 +42,19 @@ const projects = [
         ], href: "" },
     { name: "UDI扫码助手Android版", description: "支持GS1、MA、HIBC标准的UDI解析", remark: "高效扫码，精准识别批号、效期、序列号。", images: [], 
         links: [
-           { text: "安装包下载地址", url: "https://pan.baidu.com/s/1qdaodlVBz-hVom27OJcFcA?pwd=ezym" },
+           { text: "安装包下载地址(豌豆荚应用市场)", url: "https://www.wandoujia.com/apps/8442398" },
+           { text: "安装包下载地址(百度网盘)", url: "https://pan.baidu.com/s/1qdaodlVBz-hVom27OJcFcA?pwd=ezym" },
            { text: "看懂了这个问题，你也就知道了GS1之UDI内隐藏的秘密！", url: "https://mp.weixin.qq.com/s/z1NvTzqWX9i0WE-I-vT9CA" },
            { text: "UDI扫码神器来袭！Android端一键破解CODE128/GS1-128分隔符，精准提取GS1应用标识符！", url: "https://mp.weixin.qq.com/s/sYT4a8wh3_geTvQiP6UpfA" },
         ], href: "" },
     { name: "GS1扫码助手Android版", description: "解析GS1-CODE128应用标识符", remark: "GS1标准扫码工具，能解析出GS1所有应用标识符。", images: [], 
         links: [
-           { text: "安装包下载地址", url: "https://pan.baidu.com/s/1qdaodlVBz-hVom27OJcFcA?pwd=ezym" },
+           { text: "安装包下载地址(豌豆荚应用市场)", url: "https://www.wandoujia.com/apps/8442400" },
+           { text: "安装包下载地址(百度网盘)", url: "https://pan.baidu.com/s/1qdaodlVBz-hVom27OJcFcA?pwd=ezym" },
            { text: "H5在线扫一扫", url: "https://zkool.github.io/html/scanner/index.html" },
+           { text: "CODE128/GS1-128系列知识文章", url: "https://blog.csdn.net/cultwent/category_13039993.html" },
+           { text: "你知道GS1有多少个应用标识符吗？", url: "https://mp.weixin.qq.com/s/ifBD_wxuKih6f0EB81Jpvg" },
+           
         ], href: "" }
 ];
 
