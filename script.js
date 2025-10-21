@@ -1,4 +1,12 @@
 const projects = [
+    { name: "海康威视数据采集终端pda", description: "工业手持终端条码扫描枪仓储物流盘点机", 
+        remark: "🔍提升工作效率，选择海康威视数据采集终端pda！京东配送，助力仓储物流与快递盘点，轻松应对各种挑战。📦✨到手价1426.00", 
+        images: ['images/MV-IDP5204.jpg'], 
+    links: [
+        { text: "抢购链接", url: "https://u.jd.com/Bg79JoP" },
+        { text: "官网介绍", url: "https://www.hikrobotics.com/cn/machinevision/productdetail/?id=10229" },
+    ], 
+    href: "https://u.jd.com/Bg79JoP" },
     { name: "H5扫码枪电脑端Java版", description: "基于Java开发的H5扫码枪电脑端应用", remark: "采用Java Swing桌面开发，接收手机端发送的WebSocket消息，并模拟键盘录入数据到电脑任意文本位置。", images: [], 
         links: [{ text: "源码地址", url: "https://gitee.com/zkool/h5-barcode-gun" },
             { text: "安装包下载地址", url: "https://pan.baidu.com/s/1qdaodlVBz-hVom27OJcFcA?pwd=ezym" },
