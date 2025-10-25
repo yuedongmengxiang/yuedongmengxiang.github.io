@@ -7,6 +7,16 @@ const projects = [
         { text: "官网介绍", url: "https://www.hikrobotics.com/cn/machinevision/productdetail/?id=10229" },
     ], 
     href: "https://u.jd.com/Bg79JoP" },
+
+    { name: "得力一/二维码无线扫码枪", description: "有线无线双模式，大容量离线存储", 
+        remark: "🔍 高效办公利器，轻松应对商品码、药品追溯码、支付码、快递物流码等多场景需求。京东配送，品质保证！💼📦到手价219.00", 
+        images: ['images/AA302W.jpg'], 
+    links: [
+        { text: "抢购链接", url: "https://u.jd.com/pDwo53T" },
+        { text: "使用说明书", url: "https://www.nbdeli.com/bocupload/2025/05/26/1748237543229202p20.pdf" },
+    ], 
+    href: "https://u.jd.com/pDwo53T" },
+
     { name: "H5扫码枪电脑端Java版", description: "基于Java开发的H5扫码枪电脑端应用", remark: "采用Java Swing桌面开发，接收手机端发送的WebSocket消息，并模拟键盘录入数据到电脑任意文本位置。", images: [], 
         links: [{ text: "源码地址", url: "https://gitee.com/zkool/h5-barcode-gun" },
             { text: "安装包下载地址", url: "https://pan.baidu.com/s/1qdaodlVBz-hVom27OJcFcA?pwd=ezym" },
